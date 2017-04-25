@@ -1,5 +1,5 @@
 {
-  "name": "drupal/tinypng",
+  "name": "flowconcept/tinypng",
   "type": "drupal-module",
   "license": "GPL-2.0+",
   "description": "Compress images using the TinyPNG service",
